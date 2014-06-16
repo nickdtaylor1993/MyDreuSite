@@ -1,4 +1,4 @@
-i hate you$(document).ready(function(){
+$(document).ready(function(){
   var h1 = $(window).height() /2;	//Gets the window's height and divides it by half.
   $('.welcome h1').css("top",h1 + "px");	//Sets the welcome message to the center of the window.
   $('.welcome h1').animate({opacity: '1'}, 6000);	//Fades in the welcome message to the screen.
