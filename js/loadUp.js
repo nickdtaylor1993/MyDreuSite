@@ -98,7 +98,7 @@ $(document).ready(function(){
 
     $('.contents li:nth-child(5)').click(function(){
   	$('html, body').animate({
-    	scrollTop: 7500,
+    	scrollTop: 7000,
     	scrollLeft: 0
 	}, 1000);
   });
