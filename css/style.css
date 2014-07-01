@@ -98,8 +98,8 @@ ul.contents {
     background-image: url("../img/Me.jpg");
     background-repeat: no-repeat;
     border-radius: 50%;
-    height: 28%;
-    width: 24%;
+    height: 29%;
+    width: 23%;
     left: 39%;
     top: 5%; }
   .about p {
@@ -238,7 +238,7 @@ ul.contents {
 
 .journal {
   background-color: #2E2E2E;
-  height: 1850px;
+  height: 2150px;
   width: 100%;
   margin-top: 200px;
   color: #fff;
