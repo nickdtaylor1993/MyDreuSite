@@ -94,14 +94,13 @@ ul.contents {
   width: 100%;
   margin-top: 200px; }
   .about h1 {
-    position: relative;
     background-image: url("../img/Me.jpg");
     background-repeat: no-repeat;
     border-radius: 50%;
     height: 29%;
     width: 23%;
-    left: 39%;
-    top: 5%; }
+    margin: 0 auto;
+  }
   .about p {
     position: relative;
     margin: 0;
@@ -113,13 +112,14 @@ ul.contents {
     font-family: 'Lato', sans-serif;
     font-size: 1.5em; }
   .about .banner {
-    position: relative;
+
     background-image: url("../img/University_of_Richmond.png");
     background-repeat: no-repeat;
-    width: 35%;
+    width: 24%;
     height: 35%;
-    left: 38%;
-    top: 10%; }
+    margin: 0 auto;
+    margin-top: 10%;
+  }
 
 .mentor {
   background-color: #ff8330;
@@ -238,7 +238,6 @@ ul.contents {
 
 .journal {
   background-color: #2E2E2E;
-  height: 2150px;
   width: 100%;
   margin-top: 200px;
   color: #fff;
