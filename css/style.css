@@ -261,9 +261,14 @@ ul.contents {
 .connect {
   height: 10em;
   width: 100%;
+
 /*  margin-top: 200px;*/
   border-top: 1px solid #a1a1a1;
   padding-bottom: 25em;
+
+  margin-top: 200px;
+  border-top: 1px solid #a1a1a1;
+  padding-bottom: 15em;
   }
   .connect h1 {
     text-align: center;
