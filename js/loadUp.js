@@ -8,14 +8,14 @@ $(document).ready(function(){
 
   	var position = $(window).scrollTop();
   	console.log(position);
-    //$(".div").html(position);
+    $(".div").html(position);
 
-    if(position >= 2720 && position >= 3424){
+    if(position >= 2138 && position >= 3000){
 		$('.primeImage').css({opacity: '1'});
 		$('.FOC-Site').css({opacity: '1'});
 	}
 
-	else if(position >= 2720 && position < 3424){
+	else if(position >= 2138 && position < 3000){
 		$('.primeImage').css({opacity: '0'});
 		$('.FOC-Site').css({opacity: '1'});
 	}
