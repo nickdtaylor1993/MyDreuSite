@@ -70,35 +70,35 @@ $(document).ready(function(){
 
   $('.contents li:nth-child(1)').click(function(){
   	$('html, body').animate({
-    	scrollTop: 1000,
+    	scrollTop: 824,
     	scrollLeft: 0
 	}, 1000);
   });
 
   $('.contents li:nth-child(2)').click(function(){
   	$('html, body').animate({
-    	scrollTop: 2050,
+    	scrollTop: 1688,
     	scrollLeft: 0
 	}, 1000);
   });
 
   $('.contents li:nth-child(3)').click(function(){
   	$('html, body').animate({
-    	scrollTop: 2840,
+    	scrollTop: 2328,
     	scrollLeft: 0
 	}, 1000);
   });
 
    $('.contents li:nth-child(4)').click(function(){
   	$('html, body').animate({
-    	scrollTop: 4880,
+    	scrollTop: 4140,
     	scrollLeft: 0
 	}, 1000);
   });
 
     $('.contents li:nth-child(5)').click(function(){
   	$('html, body').animate({
-    	scrollTop: 7500,
+    	scrollTop: 8026,
     	scrollLeft: 0
 	}, 1000);
   });
